@@ -1,0 +1,4 @@
+#rspLRimg img {
+  mix-blend-mode: multiply;
+  object-fit: contain;
+}
